@@ -1,0 +1,10 @@
+{
+  "name": "docx-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "docx-js based DOCX renderer",
+  "main": "render.js",
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}

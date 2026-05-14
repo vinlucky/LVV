@@ -1,0 +1,209 @@
+2. deepseek-v4-flash
+  3. deepseek-v4-pro
+  4. qwen-image-2.0-pro-2026-04-22
+  5. qwen3.5-plus-2026-04-20
+  6. qwen3.6-27b
+  7. kimi-k2.6
+  8. qwen3.6-max-preview
+  9. qwen3.6-35b-a3b
+ 10. qwen3.6-flash-2026-04-16
+ 11. qwen3.6-flash
+ 12. glm-5.1
+ 13. vanchin/deepseek-v3.1-terminus
+ 14. vanchin/deepseek-v3
+ 15. vanchin/deepseek-r1
+ 16. vanchin/deepseek-v3.2-think
+ 17. qwen3.5-omni-plus-realtime-2026-03-15
+ 18. qwen3.5-omni-plus-realtime
+ 19. qwen3.5-omni-plus-2026-03-15
+ 20. qwen3.5-omni-plus
+ 21. qwen3.5-omni-flash-realtime-2026-03-15
+ 22. qwen3.5-omni-flash-realtime
+ 23. qwen3.5-omni-flash-2026-03-15
+ 24. qwen3.5-omni-flash
+ 25. qwen3.6-plus-2026-04-02
+ 26. qwen3.6-plus
+ 27. wan2.7-image-pro
+ 28. wan2.7-image
+ 
+ 
+ 31. qwen-image-2.0-2026-03-03
+ 32. qwen-image-2.0-pro
+ 33. qwen-image-2.0-pro-2026-03-03
+ 34. qwen-image-2.0
+ 35. glm-5
+ 36. qwen-flash-character-2026-02-26
+
+ 38. qwen3.5-flash-2026-02-23
+ 39. qwen3.5-flash
+ 40. qwen3.5-122b-a10b
+ 41. qwen3.5-35b-a3b
+ 42. qwen3.5-27b
+ 43. qwen3-coder-next
+ 44. qwen3.5-397b-a17b
+ 45. qwen3.5-plus-2026-02-15
+ 46. qwen3.5-plus
+
+
+ 49. kimi/kimi-k2.5
+ 50. glm-4.7
+ 51. qwen3-max
+ 52. kimi-k2.5
+ 53. tongyi-xiaomi-analysis-flash
+ 54. tongyi-xiaomi-analysis-pro
+ 55. siliconflow/deepseek-v3.2
+ 56. siliconflow/deepseek-v3.1-terminus
+ 57. siliconflow/deepseek-v3-0324
+ 58. siliconflow/deepseek-r1-0528
+
+ 60. qwen3-vl-flash-2026-01-22
+ 61. qwen3-max-2026-01-23
+ 62. qwen-image-edit-max-2026-01-16
+ 63. qwen-image-edit-max
+ 64. qwen-image-plus-2026-01-09
+ 65. qwen-flash-character
+ 66. qwen-image-max-2025-12-30
+ 67. qwen-image-max
+ 68. qwen-flash
+ 69. z-image-turbo
+ 70. qwen3-vl-plus-2025-12-19
+ 71. qwen-image-edit-plus-2025-12-15
+ 72. deepseek-v3.2
+ 73. qwen3-omni-flash-2025-12-01
+ 74. qwen3-omni-flash-realtime-2025-12-01
+ 75. qwen3-livetranslate-flash-2025-12-01
+ 76. qwen3-livetranslate-flash
+ 77. qwen-plus-2025-12-01
+ 78. qwen-plus-2025-11-05
+ 79. qwen-mt-lite
+ 80. kimi-k2-thinking
+ 81. qwen-mt-flash
+ 82. gui-plus
+ 83. qwen-image-edit-plus-2025-10-30
+ 84. qwen-image-edit-plus
+ 85. qwen-deep-search-planning
+ 86. qwen3-vl-flash
+ 87. qwen3-vl-flash-2025-10-15
+ 88. qwen3-omni-flash-realtime
+ 89. qwen3-omni-flash
+ 90. qwen3-omni-flash-2025-09-15
+ 91. qwen3-omni-flash-realtime-2025-09-15
+ 92. qwen3-s2s-flash-realtime-2025-09-22
+ 93. qwen3-livetranslate-flash-realtime
+ 94. qwen3-livetranslate-flash-realtime-2025-09-22
+ 95. qwen2.5-14b-instruct-1m
+ 96. qwen2.5-7b-instruct-1m
+ 97. qwen-max-2025-01-25
+ 98. qwen-turbo-2024-11-01
+ 99. qwen-plus-2025-01-25
+100. qwq-plus-2025-03-05
+101. qwq-plus
+102. qwen2.5-vl-32b-instruct
+103. qvq-max
+104. qwen-omni-turbo
+105. qwen-turbo-2025-04-28
+106. qwen-plus-2025-04-28
+107. qwen-vl-max-2025-04-08
+108. qwen-vl-plus-2025-01-25
+109. qwen-vl-plus-latest
+110. qwen-vl-max-latest
+111. qwen-vl-plus-2025-05-07
+112. qwen-turbo-2025-07-15
+113. qwen3-235b-a22b-instruct-2507
+114. qwen3-235b-a22b-thinking-2507
+115. qwen3-30b-a3b-thinking-2507
+116. qwen3-30b-a3b-instruct-2507
+117. qwen3-coder-flash
+118. qwen3-coder-plus-2025-09-23
+119. qwen3-max-2025-09-23
+120. qwen3-vl-plus
+121. qwen3-vl-plus-2025-09-23
+122. qwen-plus-2025-09-11
+123. qwen3-next-80b-a3b-thinking
+124. qwen3-next-80b-a3b-instruct
+125. qwen3-max-preview
+126. deepseek-v3.1
+127. qwen-vl-plus-2025-08-15
+128. qwen3-coder-plus
+129. qwen3-coder-plus-2025-07-22
+130. qwen-plus-2025-07-14
+131. qwen3-coder-480b-a35b-instruct
+132. qwen-mt-turbo
+133. qwen-mt-plus
+134. qvq-plus
+135. qvq-plus-2025-05-15
+136. qvq-max-2025-05-15
+137. qwen3-4b
+138. qwen3-32b
+139. qwen3-30b-a3b
+140. qwen3-235b-a22b
+141. qwen3-14b
+142. qwen3-1.7b
+143. qwen3-0.6b
+144. qwen3-8b
+145. qwen-vl-max-2025-04-02
+146. deepseek-v3
+147. deepseek-r1-distill-llama-70b
+148. deepseek-r1-distill-qwen-32b
+149. deepseek-r1-distill-qwen-14b
+150. deepseek-r1-distill-llama-8b
+151. deepseek-r1-distill-qwen-1.5b
+152. deepseek-r1-distill-qwen-7b
+153. deepseek-r1
+154. qwen1.5-7b-chat
+155. qwen-coder-plus-1106
+156. qwen-coder-plus
+157. qwen-coder-plus-latest
+158. qwen2.5-coder-14b-instruct
+159. qwen2.5-coder-32b-instruct
+160. qwen-turbo-0919
+161. qwen-max-latest
+162. qwen-math-turbo-0919
+163. qwen-coder-turbo-latest
+164. qwen2.5-math-72b-instruct
+165. qwen2.5-7b-instruct
+166. qwen2.5-14b-instruct
+167. qwen2.5-0.5b-instruct
+168. qwen-math-plus
+169. qwen-max-0919
+170. qwen-math-turbo-latest
+171. qwen-math-turbo
+172. qwen-math-plus-latest
+173. qwen-math-plus-0919
+174. qwen-coder-turbo-0919
+175. qwen-coder-turbo
+176. qwen2.5-math-7b-instruct
+177. qwen2.5-coder-7b-instruct
+178. qwen2.5-72b-instruct
+179. qwen2.5-32b-instruct
+180. qwen2.5-1.5b-instruct
+181. qwen2.5-math-1.5b-instruct
+182. qwen-turbo-latest
+183. qwen-plus-latest
+184. qwen2.5-3b-instruct
+185. qwen2-1.5b-instruct
+186. qwen2-57b-a14b-instruct
+187. qwen2-7b-instruct
+188. qwen2-0.5b-instruct
+189. qwen-long
+190. qwen-vl-max
+191. qwen-vl-plus
+192. qwen-max-0428
+193. qwen1.5-110b-chat
+194. qwen-14b-chat
+195. qwen1.5-0.5b-chat
+196. qwen-7b-chat
+197. qwen-1.8b-chat
+198. qwen-1.8b-longcontext-chat
+199. qwen-72b-chat
+200. codeqwen1.5-7b-chat
+201. qwen1.5-1.8b-chat
+202. qwen1.5-72b-chat
+203. qwen-max-longcontext
+204. qwen-max-1201
+205. qwen1.5-32b-chat
+206. qwen1.5-14b-chat
+207. qwen-turbo
+208. qwen-max
+209. qwen-plus
+210. qwen-max-0107

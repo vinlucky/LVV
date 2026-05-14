@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "官方 Hub（document-skills）",
+      "repo_url": "https://github.com/anthropics/skills",
+      "branch": "main",
+      "skills": [
+        {
+          "icon": "📄",
+          "name": "PDF Skill(skills/pdf)",
+          "description": "提取 PDF 文字/表格/表单字段，合并/拆分 PDF，填写表单",
+          "subpath": "skills/pdf",
+          "tags": ["PDF", "文档", "官方"]
+        },
+        {
+          "icon": "📝",
+          "name": "DOCX Skill(skills/docx)",
+          "description": "创建/编辑/分析 Word 文档",
+          "subpath": "skills/docx",
+          "tags": ["Word", "文档", "官方"]
+        },
+        {
+          "icon": "📊",
+          "name": "XLSX Skill(skills/xlsx)",
+          "description": "电子表格操作：公式、图表、数据转换",
+          "subpath": "skills/xlsx",
+          "tags": ["Excel", "表格", "官方"]
+        },
+        {
+          "icon": "📽️",
+          "name": "PPTX Skill(skills/pptx)",
+          "description": "读取/生成/调整幻灯片、布局与模板",
+          "subpath": "skills/pptx",
+          "tags": ["PPT", "演示", "官方"]
+        },
+        {
+          "icon": "🔧",
+          "name": "skill-creator(skills/skill-creator)",
+          "description": "帮助创建新 Skill，让用户可以自己扩展能力",
+          "subpath": "skills/skill-creator",
+          "tags": ["工具", "创建", "官方"]
+        }
+      ]
+    }
+  ],
+  "custom_sources": []
+}

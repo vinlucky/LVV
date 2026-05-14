@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Microsoft YaHei', 'PingFang SC', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.critic-mark {
+  text-decoration: line-through;
+  color: #ef4444;
+  background-color: #fee2e2;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.insert-mark {
+  color: #16a34a;
+  background-color: #dcfce7;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+.workflow-step {
+  transition: all 0.3s ease;
+}
+
+.workflow-step.active {
+  border-color: #3b82f6;
+  background-color: #eff6ff;
+}
+
+.workflow-step.completed {
+  border-color: #22c55e;
+  background-color: #f0fdf4;
+}
+
+.stream-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.progress-bar {
+  transition: width 0.5s ease;
+}
