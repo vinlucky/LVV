@@ -102,7 +102,7 @@ DEFAULT_PROVIDER=qwen
 
 > 获取千问 API Key: https://dashscope.console.aliyun.com/apiKey
 
-### 3. 启动
+### 3.  一键启动 （ 可以在 CLI 一键启动后端 + Web ）
 
 ```bash
 # Windows
