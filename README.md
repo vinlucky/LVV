@@ -11,7 +11,9 @@
 <p align="center">
   <a href="#快速开始">快速开始</a> ·
   <a href="#核心能力">核心能力</a> ·
-  <a href="#系统架构">系统架构</a> · ·
+  <a href="#系统架构">系统架构</a> · 
+  <a href="https://github.com/vinlucky/LVV">GitHub</a> ·
+  <a href="https://gitcode.com/vinforlucky/LVV">GitCode</a> ·
   <a href="https://github.com/vinlucky/LVV/issues">报告问题</a>
 </p>
 
