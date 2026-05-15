@@ -403,5 +403,6 @@ npm run build        # 生产构建
   <sub>
     Made with ❤️ for everyone who wants to love working.<br/>
     如果 LVV 帮到了你，考虑给一个 Star ⭐
+    项目不够完善，请见谅
   </sub>
 </p>
