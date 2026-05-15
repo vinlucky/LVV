@@ -102,7 +102,7 @@ DEFAULT_PROVIDER=qwen
 
 > 获取千问 API Key: https://dashscope.console.aliyun.com/apiKey
 
-### 3.  一键启动 （ 可以在 CLI 一键启动后端 + Web ）
+### 2.  一键启动 （ 可以在 CLI 一键启动后端 + Web 并在引导中配置 API Key ）
 
 ```bash
 # Windows
@@ -113,6 +113,24 @@ lvv.cmd
 ```
 
 CLI 会自动启动后端服务，进入交互式菜单。
+
+### 3. 配置 API Key
+
+编辑项目根目录的 `.env` 文件，填入你的 API Key（或者在CLI初始化引导时填入）：
+
+```bash
+# 千问 (Qwen/DashScope) — 推荐
+QWEN_API_KEY=sk-your-qwen-api-key-here
+
+# 腾讯混元 (Hunyuan) — 可选
+TENCENT_API_KEY=sk-your-tencent-api-key-here
+
+# 默认 AI 提供方
+DEFAULT_PROVIDER=qwen
+```
+
+> 获取千问 API Key: https://dashscope.console.aliyun.com/apiKey
+
 
 ### 4. 使用 Web 界面
 
