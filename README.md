@@ -306,7 +306,7 @@ LVV/
 │   │   ├── components/         # UI 组件
 │   │   └── stores/             # Pinia 状态管理
 │   └── package.json
-├── skills/                     # 内置 Skills（From <a href="https://github.com/anthropics">Anthropic</a> ）
+├── skills/                     # 内置 Skills（ From https://github.com/anthropics ）
 │   ├── docx/
 │   ├── pptx/
 │   ├── xlsx/
