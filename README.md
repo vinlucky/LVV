@@ -145,7 +145,7 @@ lvv literature ./paper.pdf  # 文献摘要
 lvv polish             # 多语言润色
 lvv ppt "AI发展趋势"   # 生成 PPT
 lvv skill list         # 查看已安装 Skills
-lvv skill import       # 导入新 Skill
+lvv skill import       # 导入新 Skill（待实现）
 ```
 
 ---
@@ -280,7 +280,7 @@ LVV/
 │   │   │   ├── docx.py         #   DOCX 处理
 │   │   │   ├── xlsx.py         #   XLSX 处理
 │   │   │   ├── files.py        #   文件管理
-│   │   │   ├── skills.py       #   Skills 管理
+│   │   │   ├── skills.py       #   Skills 管理（具体的待实现）
 │   │   │   └── ...
 │   │   └── services/           # 业务逻辑
 │   │       ├── llm_service.py  #   LLM 调用与 fallback
@@ -306,7 +306,7 @@ LVV/
 │   │   ├── components/         # UI 组件
 │   │   └── stores/             # Pinia 状态管理
 │   └── package.json
-├── skills/                     # 内置 Skills
+├── skills/                     # 内置 Skills（From <a href="https://github.com/anthropics">Anthropic</a> ）
 │   ├── docx/
 │   ├── pptx/
 │   ├── xlsx/
